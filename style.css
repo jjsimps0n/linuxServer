@@ -1,3 +1,12 @@
 body {
     background-color: red;
 }
+
+#header {
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+    background-color: green;
+}
